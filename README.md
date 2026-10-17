@@ -10,6 +10,7 @@
 
 - **[net-doctor](https://github.com/Wao777/net-doctor)** — 断网急救箱。网突然上不去，先别急着重启，看看是断在哪一环；能修就修，改错了还能一键还原。
 - **[display-doctor](https://github.com/Wao777/display-doctor)** — 多屏设置小助手。接了两块屏来回切，记不记住快捷键都无所谓，点一下就好，切完也能一键还原。
+- **[daily-brief](https://github.com/Wao777/daily-brief)** — 每天 10 点自动出的一份日报。12 家新闻源一起抓，AI 挑出当天真值得上头版的稿子，排成对开报纸版式的 HTML 寄到邮箱。取舍交给 AI，版面交给规则，所以每天的骨架一样、只有内容在变。
 
 ## 大概就是这样的人
 
@@ -19,6 +20,6 @@
 
 ## 手上在用的
 
-`Python` · `Win32 / ctypes` · `tkinter / customtkinter` · `PyInstaller`
+`Python` · `Win32 / ctypes` · `tkinter / customtkinter` · `PyInstaller` · `n8n` · `JavaScript`
 
 ---
