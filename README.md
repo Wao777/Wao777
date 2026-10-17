@@ -1,25 +1,6 @@
-# 嗨，我是 Wao777
+# Wao777
 
-一个爱折腾小工具的人。
-
-上班会碰到些重复的麻烦事，生活里也总有「这要是能自动搞定就好了」的时刻。我的办法很简单：让 AI 当搭子，自己把想要的说清楚，它帮着写出来，我负责把关能不能真跑起来。
-
-下面这些就是这么攒下来的——都从自用出发，谈不上多精致，但确实解决了自己的问题。
-
-## 攒下的几个小东西
-
-- **[net-doctor](https://github.com/Wao777/net-doctor)** — 断网急救箱。网突然上不去，先别急着重启，看看是断在哪一环；能修就修，改错了还能一键还原。
-- **[display-doctor](https://github.com/Wao777/display-doctor)** — 多屏设置小助手。接了两块屏来回切，记不记住快捷键都无所谓，点一下就好，切完也能一键还原。
-- **[daily-brief](https://github.com/Wao777/daily-brief)** — 每天 10 点自动出的一份日报。12 家新闻源一起抓，AI 挑出当天真值得上头版的稿子，排成对开报纸版式的 HTML 寄到邮箱。取舍交给 AI，版面交给规则，所以每天的骨架一样、只有内容在变。
-
-## 大概就是这样的人
-
-- 喜欢「装上就能用」的 Windows 小工具：不写注册表、不动系统，卸载就是删个文件夹
-- 能交给机器干的活，绝不想手动再来一遍
-- AI 是工具——需求得自己想清楚，结果得自己验一遍
-
-## 手上在用的
-
-`Python` · `Win32 / ctypes` · `tkinter / customtkinter` · `PyInstaller` · `n8n` · `JavaScript`
-
----
+- **[net-doctor](https://github.com/Wao777/net-doctor)** — 网络故障逐环排查，能修的直接修，改错了可一键还原。
+- **[display-doctor](https://github.com/Wao777/display-doctor)** — 多屏切换与排列设置，点一下切过去，也能一键还原。
+- **[daily-brief](https://github.com/Wao777/daily-brief)** — 每天自动抓取 12 家新闻源，由 AI 挑出值得上头版的稿子，排成报纸版式 HTML 寄到邮箱。
+- **[zt-popup](https://github.com/Wao777/zt-popup)** — 盘中个股首次涨停时弹窗提醒，不必整天守着行情。
