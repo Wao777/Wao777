@@ -4,3 +4,4 @@
 - **[display-doctor](https://github.com/Wao777/display-doctor)** — 多屏切换与排列设置，点一下切过去，也能一键还原。
 - **[daily-brief](https://github.com/Wao777/daily-brief)** — 每天自动抓取 12 家新闻源，由 AI 挑出值得上头版的稿子，排成报纸版式 HTML 寄到邮箱。
 - **[zt-popup](https://github.com/Wao777/zt-popup)** — 盘中个股首次涨停时弹窗提醒，不必整天守着行情。
+- **[personal-miniprogram-demo](https://github.com/Wao777/personal-miniprogram-demo)** — 活动报名微信小程序：看日程、填资料、传形象照、提交报名，四个页面走完全程。
